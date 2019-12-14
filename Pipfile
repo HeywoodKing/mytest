@@ -1,0 +1,39 @@
+[[source]]
+name = "tsinghua"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+verify_ssl = true
+
+[dev-packages]
+jieba = "*"
+pyqt5 = "*"
+requests = "*"
+pyqtwebengine = "*"
+django = "*"
+pyftpdlib = "*"
+aiohttp = "*"
+cchardet = "*"
+aiodns = "*"
+pypdf2 = "*"
+aiofiles = "*"
+fastapi = "*"
+uvicorn = "*"
+email-validator = "*"
+elasticsearch = "*"
+pymysql = "*"
+pymongo = "*"
+pypdf4 = "*"
+pysnooper = "*"
+xlrd = "*"
+pandas = "*"
+dask = "*"
+distributed = "*"
+
+[packages]
+jupyter = "*"
+scapy = "*"
+sqlalchemy = "*"
+wxpy = "*"
+maya = "*"
+
+[requires]
+python_version = "3.7"
