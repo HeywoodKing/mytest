@@ -27,13 +27,21 @@ xlrd = "*"
 pandas = "*"
 dask = "*"
 distributed = "*"
-
-[packages]
 jupyter = "*"
 scapy = "*"
 sqlalchemy = "*"
 wxpy = "*"
 maya = "*"
+httptools = "*"
+psutil = "*"
+regex = "*"
+
+[packages]
+apscheduler = "*"
+ray = "*"
+opencv-python = "*"
+cmake = "*"
+boost = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
