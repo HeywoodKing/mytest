@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49c4d71d-fb12-4d6b-ba77-eb92f25af0e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/MyTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +94,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyOpenCv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chf-project/chfweb" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -271,7 +267,7 @@
       <updated>1565676668560</updated>
       <workItem from="1565676670192" duration="1232000" />
       <workItem from="1576334422110" duration="2137000" />
-      <workItem from="1576365828063" duration="18043000" />
+      <workItem from="1576365828063" duration="18865000" />
     </task>
     <servers />
   </component>
@@ -288,10 +284,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576334563070">
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576855098050">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1576334563070" />
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1576855098050" />
     <state width="1245" height="284" key="GridCell.Tab.0.bottom" timestamp="1576686547090">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
