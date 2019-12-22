@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="49c4d71d-fb12-4d6b-ba77-eb92f25af0e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,16 +100,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../chf-project/chfweb" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Flack\Project\MyTest\MyProxy" />
-      <recent name="D:\Flack\Project\MyTest\MyOther" />
-      <recent name="D:\Flack\Project\MyTest\MyFastAPITest" />
-      <recent name="D:\Flack\Project\MyTest\MyPyQt" />
-      <recent name="D:\Flack\Project\MyTest\MyJieBa" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MyOpenCv" />
       <recent name="D:\Flack\Project\MyTest\MyPandas" />
@@ -114,9 +110,16 @@
       <recent name="D:\Flack\Project\MyTest\factory_cleaning" />
       <recent name="D:\Flack\Project\MyTest\MyFastAPITest" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyTranslate/mytranslate" />
+      <recent name="$PROJECT_DIR$/MyTelnet" />
+      <recent name="D:\Flack\Project\MyTest\MyProxy" />
+      <recent name="D:\Flack\Project\MyTest\MyOther" />
+      <recent name="D:\Flack\Project\MyTest\MyFastAPITest" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.test1">
-    <configuration name="myface" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.translate">
+    <configuration name="myarp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyOpenCv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyKamene" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyOpenCv/myface.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyKamene/myarp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="myimage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="myntp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,12 +149,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyOpenCv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyNTP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyOpenCv/myimage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyNTP/myntp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mypil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytelnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,12 +171,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyOpenCv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyTelnet" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyOpenCv/mypil.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyTelnet/pytelnet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="myvideo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,12 +193,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyOpenCv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyCompressImage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyOpenCv/myvideo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyCompressImage/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="translate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,12 +215,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyAPScheduler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyTranslate/mytranslate" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyAPScheduler/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyTranslate/mytranslate/translate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,19 +230,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.myvideo" />
-      <item itemvalue="Python.myimage" />
-      <item itemvalue="Python.myface" />
-      <item itemvalue="Python.mypil" />
-      <item itemvalue="Python.test1" />
+      <item itemvalue="Python.pytelnet" />
+      <item itemvalue="Python.myarp" />
+      <item itemvalue="Python.myntp" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.translate" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.mypil" />
-        <item itemvalue="Python.myface" />
-        <item itemvalue="Python.myimage" />
-        <item itemvalue="Python.myvideo" />
+        <item itemvalue="Python.translate" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.myntp" />
+        <item itemvalue="Python.myarp" />
+        <item itemvalue="Python.pytelnet" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +271,7 @@
       <workItem from="1565676670192" duration="1232000" />
       <workItem from="1576334422110" duration="2137000" />
       <workItem from="1576365828063" duration="18865000" />
+      <workItem from="1576931805286" duration="20142000" />
     </task>
     <servers />
   </component>
@@ -284,40 +288,72 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Notifications" timestamp="1576931827101">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741@67.27.1299.741" timestamp="1576931827101" />
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576855098050">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1576855098050" />
-    <state width="1245" height="284" key="GridCell.Tab.0.bottom" timestamp="1576686547090">
+    <state width="1245" height="231" key="GridCell.Tab.0.bottom" timestamp="1577032433633">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1245" height="284" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1576686547090" />
-    <state width="1245" height="284" key="GridCell.Tab.0.center" timestamp="1576686547088">
+    <state width="1245" height="231" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1577032433633" />
+    <state width="1245" height="231" key="GridCell.Tab.0.center" timestamp="1577032433632">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1245" height="284" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1576686547088" />
-    <state width="1245" height="284" key="GridCell.Tab.0.left" timestamp="1576686547087">
+    <state width="1245" height="231" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1577032433632" />
+    <state width="1245" height="231" key="GridCell.Tab.0.left" timestamp="1577032433631">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1245" height="284" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1576686547087" />
-    <state width="1245" height="284" key="GridCell.Tab.0.right" timestamp="1576686547089">
+    <state width="1245" height="231" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1577032433631" />
+    <state width="1245" height="231" key="GridCell.Tab.0.right" timestamp="1577032433633">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1245" height="284" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1576686547089" />
-    <state x="198" y="31" key="SettingsEditor" timestamp="1576334573749">
+    <state width="1245" height="231" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1577032433633" />
+    <state width="1245" height="213" key="GridCell.Tab.1.bottom" timestamp="1577022372241">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="198" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1576334573749" />
-    <state x="371" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576365828480">
+    <state width="1245" height="213" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1577022372241" />
+    <state width="1245" height="213" key="GridCell.Tab.1.center" timestamp="1577022372240">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="371" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1576365828480" />
+    <state width="1245" height="213" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1577022372240" />
+    <state width="1245" height="213" key="GridCell.Tab.1.left" timestamp="1577022372240">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1245" height="213" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1577022372240" />
+    <state width="1245" height="213" key="GridCell.Tab.1.right" timestamp="1577022372240">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1245" height="213" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1577022372240" />
+    <state x="198" y="31" key="SettingsEditor" timestamp="1576932161891">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="198" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1576932161891" />
+    <state x="371" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576931805471">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="371" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1576931805471" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577029661823">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1577029661823" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyTest$pytelnet.coverage" NAME="pytelnet Coverage Results" MODIFIED="1576992616545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyTelnet" />
+    <SUITE FILE_PATH="coverage/MyTest$myntp.coverage" NAME="myntp Coverage Results" MODIFIED="1577022470883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyNTP" />
     <SUITE FILE_PATH="coverage/MyTest$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1576686320757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyAPScheduler" />
-    <SUITE FILE_PATH="coverage/MyTest$myface.coverage" NAME="myface Coverage Results" MODIFIED="1576683305858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyOpenCv" />
+    <SUITE FILE_PATH="coverage/MyTest$ip.coverage" NAME="ip Coverage Results" MODIFIED="1576992277708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyDevice" />
+    <SUITE FILE_PATH="coverage/MyTest$translate.coverage" NAME="translate Coverage Results" MODIFIED="1577032424019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyTranslate/mytranslate" />
     <SUITE FILE_PATH="coverage/MyTest$myvideo.coverage" NAME="myvideo Coverage Results" MODIFIED="1576681027284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyOpenCv" />
-    <SUITE FILE_PATH="coverage/MyTest$mypil.coverage" NAME="mypil Coverage Results" MODIFIED="1576684830600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyOpenCv" />
     <SUITE FILE_PATH="coverage/MyTest$myimage.coverage" NAME="myimage Coverage Results" MODIFIED="1576681714782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyOpenCv" />
+    <SUITE FILE_PATH="coverage/MyTest$test.coverage" NAME="test Coverage Results" MODIFIED="1577029671841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyCompressImage" />
+    <SUITE FILE_PATH="coverage/MyTest$run.coverage" NAME="run Coverage Results" MODIFIED="1576933217922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyDevice" />
+    <SUITE FILE_PATH="coverage/MyTest$sshclient.coverage" NAME="sshclient Coverage Results" MODIFIED="1576990747617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MySSH" />
+    <SUITE FILE_PATH="coverage/MyTest$myface.coverage" NAME="myface Coverage Results" MODIFIED="1576683305858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyOpenCv" />
+    <SUITE FILE_PATH="coverage/MyTest$myarp.coverage" NAME="myarp Coverage Results" MODIFIED="1577020149996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyKamene" />
+    <SUITE FILE_PATH="coverage/MyTest$mypil.coverage" NAME="mypil Coverage Results" MODIFIED="1576684830600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyOpenCv" />
   </component>
 </project>
