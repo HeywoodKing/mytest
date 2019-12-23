@@ -27,13 +27,30 @@ xlrd = "*"
 pandas = "*"
 dask = "*"
 distributed = "*"
-
-[packages]
 jupyter = "*"
 scapy = "*"
 sqlalchemy = "*"
 wxpy = "*"
 maya = "*"
+httptools = "*"
+psutil = "*"
+regex = "*"
+
+[packages]
+apscheduler = "*"
+ray = "*"
+opencv-python = "*"
+cmake = "*"
+boost = "*"
+netifaces = "*"
+keras = "*"
+netmiko = "*"
+kamene = "*"
+ntplib = "*"
+tinify = "*"
+pocoui = "*"
+airtest = "*"
+bs4 = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
