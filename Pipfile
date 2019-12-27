@@ -35,8 +35,6 @@ maya = "*"
 httptools = "*"
 psutil = "*"
 regex = "*"
-
-[packages]
 apscheduler = "*"
 ray = "*"
 opencv-python = "*"
@@ -51,6 +49,9 @@ tinify = "*"
 pocoui = "*"
 airtest = "*"
 bs4 = "*"
+fabric2 = "*"
+
+[packages]
 
 [requires]
 python_version = "3.6"
