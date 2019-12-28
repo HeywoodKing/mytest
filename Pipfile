@@ -52,6 +52,9 @@ bs4 = "*"
 fabric2 = "*"
 
 [packages]
+apscheduler = "*"
+pymongo = "*"
+sqlalchemy = "*"
 
 [requires]
 python_version = "3.6"
