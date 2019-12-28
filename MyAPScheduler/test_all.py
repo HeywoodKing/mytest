@@ -116,16 +116,18 @@ executors = {
     # 'default': {'type': 'threadpool', 'max_workers': 20},
     # 'processpool': ProcessPoolExecutor(max_workers=5)
 }
-conf = { # redis配置
-    "host":127.0.0.1,
-    "port":6379,
-    "db":15, # 连接15号数据库
-    "max_connections":10 # redis最大支持300个连接数
+conf = {
+    # redis配置
+    "host": '127.0.0.1',
+    "port": 6379,
+    "db": 0,  # 连接15号数据库
+    "max_connections": 10  # redis最大支持300个连接数
 }
 # 创建定时任务的调度器对象
 scheduler = BlockingScheduler(executors=executors)
 # 添加任务持久化存储方式,如果未安装redis可省略此步骤
 scheduler.add_jobstore(jobstore='redis', **conf)
+
 
 # 使用configure方法进行配置
 # scheduler.configure(executors=executors)
