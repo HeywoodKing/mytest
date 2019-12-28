@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="49c4d71d-fb12-4d6b-ba77-eb92f25af0e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,32 +53,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>url</find>
-      <find>Closepage</find>
-      <find>urlline</find>
-      <find>url_line</find>
-      <find>electron</find>
-      <find>category_factory_insert_sql</find>
-      <find>category_id_3</find>
-      <find>zh_params</find>
-      <find>110.43.42.121</find>
-      <find>113.81.234.75</find>
-      <find>52</find>
-      <find>dict</find>
-      <find>text</find>
-      <find>bot</find>
-      <find>msg_types</find>
-      <find>msgs</find>
-      <find>message</find>
-      <find>Message</find>
-      <find>msg</find>
-      <find>name</find>
-      <find>old_msg_id</find>
-      <find>decode</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -271,7 +242,7 @@
       <workItem from="1565676670192" duration="1232000" />
       <workItem from="1576334422110" duration="2137000" />
       <workItem from="1576365828063" duration="18865000" />
-      <workItem from="1576931805286" duration="20142000" />
+      <workItem from="1576931805286" duration="21726000" />
     </task>
     <servers />
   </component>
@@ -292,10 +263,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741@67.27.1299.741" timestamp="1576931827101" />
-    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576855098050">
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577113998288">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1576855098050" />
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1577113998288" />
     <state width="1245" height="231" key="GridCell.Tab.0.bottom" timestamp="1577032433633">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
