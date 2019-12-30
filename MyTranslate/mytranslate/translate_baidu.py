@@ -12,12 +12,15 @@ import urllib
 import codecs
 import re
 import time
-from sys import argv
 import requests
+from sys import argv
 from bs4 import BeautifulSoup
 
 
 class Translate(object):
+    def __init__(self):
+        self.outtext = None
+
     def start(self):
         self._get_html_source()
         self._get_content("enc")
