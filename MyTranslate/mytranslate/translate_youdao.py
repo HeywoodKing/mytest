@@ -15,7 +15,7 @@ import hashlib  # md5 加密
 
 
 def translate(word):
-    url = 'http://fanyi.youdao.com/translate_o?smartresult=dict&smartresult=rule'
+    url = 'http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule'
     # http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule
     # 有道翻译的　API
     salt = str(int(time.time() * 10000))  # 当前时间戳
@@ -59,7 +59,7 @@ def get_word_result(word):
     # print(word)
     word_result = json.loads(word)
     # 通过　json.loads 把返回的结果加载成 json 格式
-    print(word_result)
+    # print(word_result)
     print("输入的词为：" + word_result["translateResult"][0][0]['src'])
     print("翻译结果为：" + word_result["translateResult"][0][0]['tgt'])
 
