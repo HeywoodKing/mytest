@@ -8,3 +8,16 @@
 @project        : MyTest
 @description    : 描述
 """
+from MyTranslate.mytranslate.pytranslate import exec
+
+
+def main():
+    try:
+        exec()
+    except Exception as ex:
+        print(ex)
+        main()
+
+
+if __name__ == '__main__':
+    main()

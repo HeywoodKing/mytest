@@ -4,6 +4,12 @@ url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
 verify_ssl = true
 
 [dev-packages]
+
+[packages]
+apscheduler = "*"
+pymongo = "*"
+sqlalchemy = "*"
+fake-useragent = "*"
 jieba = "*"
 pyqt5 = "*"
 requests = "*"
@@ -50,11 +56,6 @@ pocoui = "*"
 airtest = "*"
 bs4 = "*"
 fabric2 = "*"
-
-[packages]
-apscheduler = "*"
-pymongo = "*"
-sqlalchemy = "*"
 
 [requires]
 python_version = "3.6"
