@@ -13,7 +13,7 @@ import time
 import sys
 import requests
 from fake_useragent import UserAgent
-from MyTranslate.mytranslate.setting import *
+from mytranslate.setting import *
 
 
 class Translate(object):

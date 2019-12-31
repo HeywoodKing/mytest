@@ -8,7 +8,7 @@
 @project        : MyTest
 @description    : 描述
 """
-from MyTranslate.mytranslate.pytranslate import exec
+from mytranslate.pytranslate import exec
 
 
 def main():
