@@ -11,6 +11,12 @@ fake-useragent = "*"
 pillow = "*"
 pandas = "*"
 pymysql = "*"
+bs4 = "*"
+lxml = "*"
+fire = "*"
+xlwt = "*"
+myqr = "*"
+turtle = "*"
 
 [requires]
 python_version = "3.6"
