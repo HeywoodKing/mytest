@@ -10,6 +10,7 @@ pylint = "*"
 requests = "*"
 fake-useragent = "*"
 pillow = "*"
+turtle = "*"
 
 [requires]
 python_version = "3.6"
