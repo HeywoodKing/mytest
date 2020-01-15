@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+
+[dev-packages]
+pymysql = "*"
+pymongo = "*"
+sqlalchemy = "*"
+celery = "*"
+redis = "*"
+eventlet = "*"
+fastapi = "*"
+uvicorn = "*"
+pydantic = "*"
+python-multipart = "*"
+flower = "*"
+aiohttp = "*"
+aioredis = "*"
+motor = "*"
+
+[packages]
+bs4 = "*"
+
+[requires]
+python_version = "3.7"

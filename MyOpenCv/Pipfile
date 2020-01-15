@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+numpy = "*"
+pillow = "*"
+cmake = "*"
+boost = "*"
+dlib = "*"
+
+[packages]
+opencv-python = {path = "E:/Python/opencv_python-4.1.0.25-cp37-cp37m-win_amd64.whl"}
+boost = "*"
+dlib = "*"
+
+[requires]
+python_version = "3.7"
