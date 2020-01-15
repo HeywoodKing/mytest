@@ -1,0 +1,30 @@
+<div class="post_item">
+    <div class="digg">
+        <div class="diggit" onclick="DiggPost('cl94',9444536,430834,1)"> 
+    	<span class="diggnum" id="digg_count_9444536">0</span>
+    	</div>
+    	<div class="clear"></div>
+    	<div id="digg_tip_9444536" class="digg_tip"></div>
+    </div>      
+    <div class="post_item_body">
+    	<h3>
+            <a class="titlelnk" href="https://www.cnblogs.com/cl94/p/9444536.html" target="_blank">商城一 之设计数据库</a>
+        </h3>
+        <p class="post_item_summary">
+            <a href="https://www.cnblogs.com/cl94/" target="_blank">
+                <img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/1395514/20180507153442.png" alt="">
+            </a>    商城数据表设计 用户： user（用户表）	id name	password	email	create_date 创建日期	login_date 上次登陆日期	credit 信用积分，买一块钱一分	status 是否启用，默认1 admin（管理员表）	id name	password	email	 ...
+        </p>
+        <div class="post_item_foot">                    
+            <a href="https://www.cnblogs.com/cl94/" class="lightblue">cl94</a> 
+            发布于 2018-08-08 18:27 
+            <span class="article_comment">
+                <a href="https://www.cnblogs.com/cl94/p/9444536.html#commentform" title="" class="gray">评论(0)</a>
+            </span>
+            <span class="article_view">
+                <a href="https://www.cnblogs.com/cl94/p/9444536.html" class="gray">阅读(1)</a>
+            </span>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>

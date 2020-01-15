@@ -1,0 +1,7 @@
+python  爬虫
+
+pip install bs4
+
+
+更新pip
+python -m pip install --upgrade pip

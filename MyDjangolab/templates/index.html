@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block mainbody %}
+    <h1>{{ title|upper|truncatewords:"3" }}</h1>
+    <h2>Index---ching</h2>
+    {% ifequal flag '10' %}
+        <h2>{{ flag }}</h2>
+    {% else %}
+        <h2>error</h2>
+    {% endifequal %}
+
+    <ul>
+        {# 这是一个注释 #}
+        {% if isRead %}
+            {% for val in list %}
+                <li>{{ val }}</li>
+            {% endfor %}
+        {% elif not isRead %}
+            {% for val in list2 reversed %}
+                <li>{{ val|upper|truncatewords:"2" }}</li>
+            {% endfor %}
+        {% endif %}
+    </ul>
+    <div>{{ addtime }}</div>
+    {% include "nav.html" %}
+{% endblock %}
