@@ -8,7 +8,8 @@
 @project        : MyTest
 @description    : 描述
 """
-from MyTranslate.mytranslate.pytranslate import exec
+import fire
+from mytranslate.pytranslate import exec
 
 
 def main():
@@ -20,4 +21,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    fire.Fire(main)

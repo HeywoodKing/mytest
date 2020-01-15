@@ -10,6 +10,13 @@ pylint = "*"
 requests = "*"
 fake-useragent = "*"
 pillow = "*"
+pandas = "*"
+pymysql = "*"
+bs4 = "*"
+lxml = "*"
+fire = "*"
+xlwt = "*"
+myqr = "*"
 turtle = "*"
 
 [requires]
