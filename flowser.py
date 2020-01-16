@@ -10,164 +10,171 @@
 """
 
 import turtle
-
 import time
 
-turtle.speed(5)
 
-# 设置初始位置
+def main():
+    turtle.speed(5)
 
-turtle.penup()
+    # 设置初始位置
 
-turtle.left(90)
+    turtle.penup()
 
-turtle.fd(200)
+    turtle.left(90)
 
-turtle.pendown()
+    turtle.fd(200)
 
-turtle.right(90)
-# 花蕊
+    turtle.pendown()
 
-turtle.fillcolor("red")
+    turtle.right(90)
+    # 花蕊
 
-turtle.begin_fill()
+    turtle.fillcolor("red")
 
-turtle.circle(10, 180)
+    turtle.begin_fill()
 
-turtle.circle(25, 110)
+    turtle.circle(10, 180)
 
-turtle.left(50)
+    turtle.circle(25, 110)
 
-turtle.circle(60, 45)
+    turtle.left(50)
 
-turtle.circle(20, 170)
+    turtle.circle(60, 45)
 
-turtle.right(24)
+    turtle.circle(20, 170)
 
-turtle.fd(30)
+    turtle.right(24)
 
-turtle.left(10)
+    turtle.fd(30)
 
-turtle.circle(30, 110)
+    turtle.left(10)
 
-turtle.fd(20)
+    turtle.circle(30, 110)
 
-turtle.left(40)
+    turtle.fd(20)
 
-turtle.circle(90, 70)
+    turtle.left(40)
 
-turtle.circle(30, 150)
+    turtle.circle(90, 70)
 
-turtle.right(30)
+    turtle.circle(30, 150)
 
-turtle.fd(15)
+    turtle.right(30)
 
-turtle.circle(80, 90)
+    turtle.fd(15)
 
-turtle.left(15)
+    turtle.circle(80, 90)
 
-turtle.fd(45)
+    turtle.left(15)
 
-turtle.right(165)
+    turtle.fd(45)
 
-turtle.fd(20)
+    turtle.right(165)
 
-turtle.left(155)
+    turtle.fd(20)
 
-turtle.circle(150, 80)
+    turtle.left(155)
 
-turtle.left(50)
+    turtle.circle(150, 80)
 
-turtle.circle(150, 90)
+    turtle.left(50)
 
-turtle.end_fill()
+    turtle.circle(150, 90)
 
-# 花瓣1
+    turtle.end_fill()
 
-turtle.left(150)
+    # 花瓣1
 
-turtle.circle(-90, 70)
+    turtle.left(150)
 
-turtle.left(20)
+    turtle.circle(-90, 70)
 
-turtle.circle(75, 105)
+    turtle.left(20)
 
-turtle.setheading(60)
+    turtle.circle(75, 105)
 
-turtle.circle(80, 98)
+    turtle.setheading(60)
 
-turtle.circle(-90, 40)
+    turtle.circle(80, 98)
 
-# 花瓣2
+    turtle.circle(-90, 40)
 
-turtle.left(180)
+    # 花瓣2
 
-turtle.circle(90, 40)
+    turtle.left(180)
 
-turtle.circle(-80, 98)
+    turtle.circle(90, 40)
 
-turtle.setheading(-83)
+    turtle.circle(-80, 98)
 
-# 叶子1
+    turtle.setheading(-83)
 
-turtle.fd(30)
+    # 叶子1
 
-turtle.left(90)
+    turtle.fd(30)
 
-turtle.fd(25)
+    turtle.left(90)
 
-turtle.left(45)
+    turtle.fd(25)
 
-turtle.fillcolor("green")
+    turtle.left(45)
 
-turtle.begin_fill()
+    turtle.fillcolor("green")
 
-turtle.circle(-80, 90)
+    turtle.begin_fill()
 
-turtle.right(90)
+    turtle.circle(-80, 90)
 
-turtle.circle(-80, 90)
+    turtle.right(90)
 
-turtle.end_fill()
+    turtle.circle(-80, 90)
 
-turtle.right(135)
+    turtle.end_fill()
 
-turtle.fd(60)
+    turtle.right(135)
 
-turtle.left(180)
+    turtle.fd(60)
 
-turtle.fd(85)
+    turtle.left(180)
 
-turtle.left(90)
+    turtle.fd(85)
 
-turtle.fd(80)
+    turtle.left(90)
 
-# 叶子2
+    turtle.fd(80)
 
-turtle.right(90)
+    # 叶子2
 
-turtle.right(45)
+    turtle.right(90)
 
-turtle.fillcolor("green")
+    turtle.right(45)
 
-turtle.begin_fill()
+    turtle.fillcolor("green")
 
-turtle.circle(80, 90)
+    turtle.begin_fill()
 
-turtle.left(90)
+    turtle.circle(80, 90)
 
-turtle.circle(80, 90)
+    turtle.left(90)
 
-turtle.end_fill()
+    turtle.circle(80, 90)
 
-turtle.left(135)
+    turtle.end_fill()
 
-turtle.fd(60)
+    turtle.left(135)
 
-turtle.left(180)
+    turtle.fd(60)
 
-turtle.fd(60)
+    turtle.left(180)
 
-turtle.right(90)
+    turtle.fd(60)
 
-turtle.circle(200, 60)
+    turtle.right(90)
+
+    turtle.circle(200, 60)
+
+    turtle.Screen()
+
+
+if __name__ == '__main__':
+    main()
