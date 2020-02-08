@@ -4,12 +4,9 @@ url = "https://pypi.douban.com/simple"
 verify_ssl = true
 
 [dev-packages]
-pylint = "*"
 
 [packages]
-requests = "*"
 fake-useragent = "*"
-pillow = "*"
 pandas = "*"
 pymysql = "*"
 bs4 = "*"
@@ -18,6 +15,9 @@ fire = "*"
 xlwt = "*"
 myqr = "*"
 turtle = "*"
+numpy = "*"
+pillow = "*"
+paramiko = "*"
 
 [requires]
 python_version = "3.6"
