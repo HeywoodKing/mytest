@@ -1,9 +1,11 @@
 [[source]]
-name = "douban"
-url = "https://pypi.douban.com/simple"
+name = "tsinghua"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
 verify_ssl = true
 
 [dev-packages]
+flake8 = "*"
+yapf = "*"
 
 [packages]
 fake-useragent = "*"
@@ -14,10 +16,11 @@ lxml = "*"
 fire = "*"
 xlwt = "*"
 myqr = "*"
-turtle = "*"
 numpy = "*"
 pillow = "*"
 paramiko = "*"
+jieba = "*"
+flake8 = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
