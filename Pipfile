@@ -16,13 +16,9 @@ fire = "*"
 xlwt = "*"
 myqr = "*"
 numpy = "*"
-<<<<<<< HEAD
-=======
 pillow = "*"
 paramiko = "*"
 jieba = "*"
-flake8 = "*"
->>>>>>> c7185279d8e0612681cb701e985cff8e37e55421
 
 [requires]
 python_version = "3.7"
