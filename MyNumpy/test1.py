@@ -24,7 +24,8 @@ def main():
     # # print(da.mean(axis=0))
     # print(da.std())
 
-    nda = np.ndarray()
+    # nda = np.ndarray()
+    pass
 
 
 if __name__ == '__main__':

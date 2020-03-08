@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/flack/.local/share/virtualenvs/MyTest-kVmiONft/bin/python"
+    "python.pythonPath": "/home/flack/.local/share/virtualenvs/MyTest-kVmiONft/bin/python",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "'Consolas','Courier New','monospace'"
 }
