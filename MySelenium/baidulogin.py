@@ -6,12 +6,16 @@ from selenium.webdriver.common.keys import Keys
 class BaiduAutoLogin(object):
     def __init__(self, url='https://www.baidu.com'):
         options = webdriver.ChromeOptions()
-        # options.add_argument('--headless')
+        options.add_argument('--no-sandbox')   # “–no-sandbox”参数是让Chrome在root权限下跑
+        options.add_argument('--disable-dev-shm-usage')  
+        options.add_argument('--headless')  # “–headless”参数是不用打开图形界面 
         self.driver = webdriver.Chrome(options=options)
         self.url = url
 
     def login(self, url=None):
         self.driver.get(url if url else self.url)
+        # token_value = ''
+        # self.driver.add_cookie({'name': 'token', 'value': token_value})
         self.driver.maximize_window()
 
         # assert "登录" in self.driver.title
