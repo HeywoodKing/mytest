@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 """
-@File           : test2.py
+@File           : dbapi.py
 @Time           : 2019/12/28 14:03
 @Author         : Flack
 @Email          : opencoding@hotmail.com

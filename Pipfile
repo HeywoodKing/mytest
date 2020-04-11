@@ -7,8 +7,7 @@ verify_ssl = true
 flake8 = "*"
 yapf = "*"
 
-[packages]
-fake-useragent = "*"
+[packages]pylint = "*"
 pandas = "*"
 pymysql = "*"
 bs4 = "*"
@@ -20,7 +19,6 @@ numpy = "*"
 pillow = "*"
 paramiko = "*"
 jieba = "*"
-flake8 = "*"
 
 [requires]
 python_version = "3.7"
