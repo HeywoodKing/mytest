@@ -1,0 +1,24 @@
+[[source]]
+name = "tsinghua"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+yapf = "*"
+
+[packages]pylint = "*"
+pandas = "*"
+pymysql = "*"
+bs4 = "*"
+lxml = "*"
+fire = "*"
+xlwt = "*"
+myqr = "*"
+numpy = "*"
+pillow = "*"
+paramiko = "*"
+jieba = "*"
+
+[requires]
+python_version = "3.7"
